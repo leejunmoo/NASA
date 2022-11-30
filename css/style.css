@@ -1,8 +1,12 @@
 /* style.css */
 
-.container, .container-fluid {
-    outline: 1px solid #000;
+.btn {
+    white-space: nowrap;
 }
+
+/* .container, .container-fluid {
+    outline: 1px solid #000;
+} */
 
 #main-title {
     width: 100%;
@@ -21,4 +25,8 @@
 #main-title .title {
     padding-top: 50px;
 }
+
+/* #main-title .title iframe {
+    outline: 5px solid #fff;
+} */
 
